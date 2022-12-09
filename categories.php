@@ -9,7 +9,7 @@
 			<form action="" id="manage-category">
 				<div class="card">
 					<div class="card-header">
-						    Category Form
+						    Category Formation
 				  	</div>
 					<div class="card-body">
 							<input type="hidden" name="id">

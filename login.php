@@ -19,6 +19,7 @@ header("location:index.php?page=home");
 ?>
 
 </head>
+
 <style>
 	body{
 		width: 100%;
